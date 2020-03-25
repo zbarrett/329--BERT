@@ -1,3 +1,5 @@
 # 329-BERT
 
-# Could we add the link to the tutorials here
+# Links to the tutorials:
+
+https://github.com/zbarrett/329-BERT.git
