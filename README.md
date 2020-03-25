@@ -2,4 +2,4 @@
 
 # Links to the tutorials:
 
-https://github.com/zbarrett/329-BERT.git
+https://towardsdatascience.com/bert-for-dummies-step-by-step-tutorial-fb90890ffe03
