@@ -1,2 +1,3 @@
 20newsgroups_dataset/*.p
 *.p
+IMDb_dataset/*.p
