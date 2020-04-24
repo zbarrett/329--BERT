@@ -14,3 +14,7 @@ https://towardsdatascience.com/bert-text-classification-in-3-lines-of-code-using
 
 # Link to Google Colab:
 https://colab.research.google.com/github/zbarrett/329-BERT/blob/master/Preprocessing.ipynb
+
+
+# Link to Presentation:
+https://docs.google.com/presentation/d/15-aAaf-iPlR1k-NJT_uxOUJokU0YJq3a1qEsYjsKYik/edit#slide=id.g340422e078_0_20
